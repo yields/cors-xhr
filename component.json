@@ -2,7 +2,7 @@
   "name": "cors-xhr",
   "repo": "yields/cors-xhr",
   "description": "cors xhr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": ["cors", "xhr"],
   "license": "MIT",
   "main": "index.js",
